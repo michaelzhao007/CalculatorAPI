@@ -6,7 +6,6 @@ Implemented in Akka Http for Restful API and using Scala parser combinator for t
 chmod u+x ./sbt
 chmod u+x sbt-dist
 ./sbt then just enter run
-
 ```
 
 # Consume API
